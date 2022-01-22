@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1642358623 source:d:\c++\win_priv_escalation\quoted_service_path.cpp
+	<iostream>
+	<string>
+	<regex>
+
+1642448797 source:d:\c++\win_priv_escalation\wipecpp.cpp
+	"headers/quoted_service_path.h"
+	"headers/auto_run.h"
+
+1642436402 d:\c++\win_priv_escalation\quoted_service_path.h
+	<iostream>
+	<string>
+	<regex>
+
+1642447440 d:\c++\win_priv_escalation\headers\quoted_service_path.h
+	<iostream>
+	<string>
+	<regex>
+	"common_functions.h"
+
+1642531862 d:\c++\win_priv_escalation\headers\common_functions.h
+	<iostream>
+	<vector>
+
+1642531573 d:\c++\win_priv_escalation\headers\auto_run.h
+	<iostream>
+	"common_functions.h"
+
